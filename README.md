@@ -1,0 +1,1 @@
+# test_otomasyon_patika
